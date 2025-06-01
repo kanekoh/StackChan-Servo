@@ -1,5 +1,5 @@
 # platformio 
 .pio
 **/.pio
-
+*.tar.gz
 .vscode
